@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolyo Frontend-Assessment Next.js
+Converted the portfolio from React.js to Next.js.
 
-## Getting Started
+## Available Scripts
 
-First, run the development server:
+In the project directory, you can run:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### `npm install`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Installs the required dependencies.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### `npm run dev`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/ayush1337/portfolyo-frontend-assessment-react.js/assets/28340990/5b4b2507-5a6f-4720-9573-8796f8315f3f)
+![image](https://github.com/ayush1337/portfolyo-frontend-assessment-react.js/assets/28340990/f9a4f23b-9676-40aa-b18a-5851f72ba003)
+![image](https://github.com/ayush1337/portfolyo-frontend-assessment-react.js/assets/28340990/f38dcdae-dafb-4166-ba70-91cbe62d2360)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
