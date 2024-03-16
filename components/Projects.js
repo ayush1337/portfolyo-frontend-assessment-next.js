@@ -50,7 +50,7 @@ export default function Projects() {
                       <div className="absolute inset-0 opacity-0 group-hover:opacity-100 bg-gradient-to-b to-slate-900 from-transparent transition-all duration-500"></div>
                       <div className="absolute bottom-0 opacity-0 group-hover:opacity-100 m-6 transition-all duration-500">
                         <Link
-                          href="#"
+                          href=""
                           className="text-white hover:text-amber-500 font-semibold transition-all duration-500"
                         >
                           {item.title}
@@ -62,7 +62,7 @@ export default function Projects() {
 
                       <div className="absolute z-10 opacity-0 group-hover:opacity-100 top-1/2 -translate-y-1/2 right-0 left-0 mx-auto text-center transition-all duration-500">
                         <Link
-                          href="#"
+                          href=""
                           onClick={() => handleCLick(index)}
                           className="btn bg-amber-500 hover:bg-amber-600 border-amber-500 hover:border-amber-600 text-white btn-icon rounded-full lightbox"
                         >
