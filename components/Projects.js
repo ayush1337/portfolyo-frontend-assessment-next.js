@@ -61,13 +61,12 @@ export default function Projects() {
                       </div>
 
                       <div className="absolute z-10 opacity-0 group-hover:opacity-100 top-1/2 -translate-y-1/2 right-0 left-0 mx-auto text-center transition-all duration-500">
-                        <Link
-                          href=""
+                        <div
                           onClick={() => handleCLick(index)}
-                          className="btn bg-amber-500 hover:bg-amber-600 border-amber-500 hover:border-amber-600 text-white btn-icon rounded-full lightbox"
+                          className="btn cursor-pointer bg-amber-500 hover:bg-amber-600 border-amber-500 hover:border-amber-600 text-white btn-icon rounded-full lightbox"
                         >
                           <Unicons.UilCamera width={16} />
-                        </Link>
+                        </div>
                       </div>
                     </div>
                   );
