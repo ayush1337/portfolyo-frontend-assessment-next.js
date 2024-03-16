@@ -5,7 +5,7 @@ import dynamic from 'next/dynamic';
 const TinySlider = dynamic(() => import('tiny-slider-react'), {
   ssr: false,
 });
-
+import '@/assets/css/materialdesignicons.min.css';
 import 'tiny-slider/dist/tiny-slider.css';
 import { usePortfolioData } from './PortfolioContext';
 
